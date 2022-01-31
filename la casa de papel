@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LA CASA DE PAPEL</TITLE>
+<style>
+.myDiv {
+  border: 7px outset red;
+  background-color: white;
+  text-align: center;
+  margin-top: 5cm
+}
+ .myDiv2 {
+  border: 10px outset white;
+  background-color: red;
+  text-align: center;
+  margin-top: 5cm
+cm
+}
+.imgi-centrata {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color:#696969 ;
+}
+
+h1 {
+  color: RED;
+   font-size: 70px;
+text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 25px;
+  font-color: black; 
+  text-align: left;
+}
+h2 {
+  color:  #708090;
+   font-size: 50px;
+text-align: left;
+} 
+
+
+
+</style>
+</head>
+<body>
+<audio controls loop>
+<source src="https://bizziroute.com/mp3-songs/downloads/cecilia-krull/my-life-is-going-on.mp3">
+</audio>
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Casadepapelwordmark.svg/1024px-Casadepapelwordmark.svg.png" class="imgi-centrata" >
+
+
+<div class="myDiv">
+<h1>la trama</h1> 
+<img src="https://www.cinematografo.it/wp-content/uploads/2021/08/IT_LCDP_S5_Main_Vertical_RGB_PRE.jpg"b height="400" width="270" align="left"><p><rigt>La Casa di Carta 
+racconta le vicende di un gruppo di rapinatori che vorrebbero realizzare un ambizioso piano, progettato nei minimi dettagli: irrompere nella Zecca di Stato spagnola a
+ Madrid, la Fabrica Nacional de Moneda y Timbre, stampare milioni e milioni di banconote e scappare con il bottino.
+L’ideatore di questa rapina, unica nel suo genere, è un uomo estremamente intelligente conosciuto col nome di Professore. Dopo aver passato anni a progettare quella 
+che sarà la più grande rapina della storia, stabilendo regole e valutando ogni minimo passo, il Professore seleziona attentamente otto individui funzionali al suo
+ scopo che, per motivi di estrazione sociale e trascorsi penali, non hanno nulla da perdere.A ciascun membro della banda, considerato il divieto di rivelare la 
+propria identità, viene assegnato il nome di una città: Tokyo, Mosca, Berlino, Nairobi, Rio, Helsinki, Oslo e Denver. Per tutto il tempo di durata della rapina, 
+ogni membro, a parte il Professore, agirà indossando una tuta rossa e una maschera del pittore spagnolo Salvador Dalì.
+</div>
+
+<div class="myDiv2">
+<h1><font color="white">I personaggi  (principali)</h1>
+
+<img src="https://64.media.tumblr.com/6481f8243e854ded179c97ec3655e315/bc2264e06b05cb4e-27/s400x600/36f9f5c2c761bf1885d9cbf183da0a156185de4a.png" align="left" height="200" width="200">
+ <h2>IL PROFESSORE</h2>
+<p>Alvaro Morte è l'attore che interpreta il Professore in “La casa di carta ”, la serie che racconta il tentativo di rapina (con bottino da due miliardi di euro) 
+da parte di una banda di criminali ai danni della Zecca di Stato.</p>
+
+<img src="https://pbs.twimg.com/profile_images/1245904125054857218/4VpyCa5U_400x400.jpg" align="left" height="200" width="200">
+ <h2>TOKYO</h2>
+<p>Tokyo ( Silene Oliveira ) è un personaggio della serie Netflix La Casa Di Carta. Protagonista del fatto della serie,
+ è la narratrice inaffidabile e un rapinatore in fuga che viene scovata dal Professore per partecipare alle sue rapine.</p>
+
+<img src="https://lh3.googleusercontent.com/tQsSzRegH_BdsPzg5hTgjPcD8qzoaFrEV74Upg95yPzSS5EqkavukHKxuk4HskIRpMQj=s85" align="left" height="200" width="200">
+ <h2>BERLINO</h2>
+<p>Berlino ,interpretato da Pedro Alonso, è il capo della banda scelto dal professore. Infatti è proprio lui che fa le scgelte durante la rapina e coordina tutti</p>
+ 
+<img src="https://pbs.twimg.com/profile_images/1306710824753467392/sNUqEW54_400x400.jpg" align="left" height="200" width="200">
+<h2>Raquel Murillo</h2>
+<p>Raquel Murillo è un personaggio immaginario della serie Netflix La Casa Di Carta, interpretato da Itziar Ituño. Era un ispettore del Corpo di Polizia Nazionale che è
+ stato incaricato delle indagini prima di essere costretta a dimettersi per non aver fermato la rapina alla Banca di stato Spagnola 
+</p>
+</body>
+</html>
